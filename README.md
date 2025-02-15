@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Ordóñez</h1>
 <h3 align="center">A passionate Electronic Engineer and Computer Scientist</h3>
 
-- 🔭 I’m currently working on **Image Segmentation and OOP projects**
+- 🔭 I’m currently working on **Image Segmentation and Java projects**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Web Development**
 
